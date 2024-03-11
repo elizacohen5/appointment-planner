@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+### Project Overview
+The Appointment Planner app contains two pages, one to view and add contacts, and one to view and add appointments. The topmost component is App.js, which handles the routing between ContactsPage and AppointmentsPage. ContactsPage includes a ContactForm and TileList component. ContactsPage allows the user to input data for new contacts, and save them to a list of contacts. Each contact is contained within a "tile" component. Appointments Page includes an AppointmentForm and TileList component. AppointmentsPage allows the user to input data for new contacts, and save them to a list of contacts. Each contact is contained within a "tile" component. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## `Getting Started with Create React App`
 
 In the project directory, you can run:
 
